@@ -1,5 +1,5 @@
 
-# Kubernetes Task: 
+# Kubernetes Homework: 
 Here is the task specifications: 
 Please use your last two homework assignments:
 - The YNET news
