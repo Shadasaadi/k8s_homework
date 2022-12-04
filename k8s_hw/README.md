@@ -1,9 +1,3 @@
-# k8s_TASK
-
-
-
-
-
 
 # Kubernetes Task: 
 Here is the task specifications: 
